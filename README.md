@@ -1,1 +1,0 @@
-# connectcontabilidade-connect-contabilidadeSC-backend
